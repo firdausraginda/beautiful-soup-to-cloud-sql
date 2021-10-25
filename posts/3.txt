@@ -1,0 +1,100 @@
+company name: Coverfox.com 
+skills: python,django,os,restapi,linux,problemsolving,api,soap 
+more info: https://www.timesjobs.com/job-detail/python-developers-coverfox-com-mumbai-1-to-3-yrs-jobid-qSlRKer4wQ1zpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: TandA HR Solutions 
+skills: algorithms,python,django,databaseprogramming,oops,webtechnologies,debugging,mysql 
+more info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-4-to-6-yrs-jobid-WXIJ7LXxBVJzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: spm hr solutions 
+skills: python,sql,mysql,hadoop 
+more info: https://www.timesjobs.com/job-detail/python-developer-spm-hr-solutions-chennai-6-to-10-yrs-jobid-bPwareoNJnxzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: Infosys Technologies Ltd 
+skills: python,technologyanalyst,bigdata 
+more info: https://www.timesjobs.com/job-detail/python-developer-infosys-technologies-ltd-australia-0-to-3-yrs-jobid-YpHKVCDf5bFzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: Datagrid Solutions 
+skills: python,database,django,mysql,api 
+more info: https://www.timesjobs.com/job-detail/python-developer-datagrid-solutions-mumbai-2-to-3-yrs-jobid-yAspoeIZIo5zpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: Doodleblue Innovations Pvt Ltd 
+skills: python,database,django,git,html5,debugging,javascript,jquery 
+more info: https://www.timesjobs.com/job-detail/python-developer-doodleblue-innovations-pvt-ltd-chennai-0-to-3-yrs-jobid-ZDWKX8wOZMlzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: mquotient solutions 
+skills: python,django,webtechnologies,linux,mysql,cloudcomputing 
+more info: https://www.timesjobs.com/job-detail/python-developer-mquotient-solutions-pune-1-to-4-yrs-jobid-Ic__PLUS__lYIc3lBtzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: ikomet Technology Solutions Pvt. Ltd. 
+skills: python,django,git,html5,debugging,javascript,jquery 
+more info: https://www.timesjobs.com/job-detail/python-developer-ikomet-technology-solutions-pvt-ltd-chennai-0-to-3-yrs-jobid-4hfiObJyI39zpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: APPLYCUP HIRING SOLUTIONS LLP 
+skills: algorithms,python,django,writtencommunication,datastructures,teamplayer 
+more info: https://www.timesjobs.com/job-detail/python-lead-applycup-hiring-solutions-llp-bengaluru-bangalore-8-to-11-yrs-jobid-XMoZItS0FTZzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: BRICKRED TECHNOLOGIES PVT. LTD. 
+skills: restapi,sql,linux,multithreading,python,machinelearning,windows,django 
+more info: https://www.timesjobs.com/job-detail/python-engineer-brickred-technologies-pvt-ltd-5-to-8-yrs-jobid-TFbNV8el8shzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: APPLYCUP HIRING SOLUTIONS LLP 
+skills: python,tornado,sql,django,git,postgresql,linux,mysql,softwareengineering 
+more info: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-hyderabad-secunderabad-3-to-6-yrs-jobid-OOhEAqpAjP1zpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: APPLYCUP HIRING SOLUTIONS LLP 
+skills: python,django,git,postgresql,webdeveloper,html,mysql,bootstrap,javascript 
+more info: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-bengaluru-bangalore-2-to-5-yrs-jobid-aORGWcxlX__SLASH__ZzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: SKILLVENTORY 
+skills: rest,python,orchestration,hosting,sql,django,git 
+more info: https://www.timesjobs.com/job-detail/python-developer-skillventory-mumbai-3-to-6-yrs-jobid-G0OhZEnVzFhzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: Splice Global Services Pvt Ltd 
+skills: python,django,git,postgresql,oops,linux,mysql 
+more info: https://www.timesjobs.com/job-detail/python-developer-splice-global-services-pvt-ltd-gurgaon-2-to-5-yrs-jobid-Jnds36iU0vVzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: SKILLVENTORY 
+skills: rest,python,django,webtechnologies,debugging,softwaredeveloper 
+more info: https://www.timesjobs.com/job-detail/python-developer-skillventory-delhi-delhi-ncr-2-to-5-yrs-jobid-bMObWLXczJ5zpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: APPLYCUP HIRING SOLUTIONS LLP 
+skills: rest,python,teamplayer,sql,security,database,django,webtechnologies,php,debugging,html,shellscripting,soap 
+more info: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-nasik-1-to-3-yrs-jobid-TvfCMKwRwOJzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: TECHNOPARK TRIVANDRUM 
+skills: rest,python,css,html5,debugging,javascript,sql 
+more info: https://www.timesjobs.com/job-detail/python-developer-technopark-trivandrum-thiruvananthapuram-2-to-4-yrs-jobid-pkm9rouYxqpzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: TECHNOPARK TRIVANDRUM 
+skills: python,javascript,sql,nosql,oop,database,git,objectorientedprogramming 
+more info: https://www.timesjobs.com/job-detail/python-developer-technopark-trivandrum-thiruvananthapuram-0-to-3-yrs-jobid-FkxH2sux3YlzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: TandA HR Solutions 
+skills: Djangoframework,PythonDeveloper,corepython 
+more info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-mohali-3-to-5-yrs-jobid-GTT0grHZP1tzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: east india securities ltd. 
+skills: python,hadoop,machinelearning 
+more info: https://www.timesjobs.com/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: YM Global Technologies Pte Ltd 
+skills: python,apache,machinelearning 
+more info: https://www.timesjobs.com/job-detail/python-developer-ym-global-technologies-pte-ltd-singapore-4-to-7-yrs-jobid-bRMEk1dtdLBzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: CONNECTING 2 WORK 
+skills: securitycompliance,python,html5,mobile,javascript,database,django,debugging 
+more info: https://www.timesjobs.com/job-detail/python-developer-connecting-2-work-cochin-kochi-ernakulam-0-to-3-yrs-jobid-uHGNDvr5IRNzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: Zealogics LLC. 
+skills: san,python,css,javascript,jquery,django,html 
+more info: https://www.timesjobs.com/job-detail/python-developer-zealogics-llc-0-to-3-yrs-jobid-nwpyNJv5Ro9zpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: Merkle Inc. 
+skills: softwaredesign,devops,python,nosql,docker,sql,git,debugging,crm,mobile 
+more info: https://www.timesjobs.com/job-detail/python-developer-merkle-inc-spain-2-to-3-yrs-jobid-Z1bk1636zJBzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
+company name: zf friedrichshafen -itc 
+skills: fundamentals,algorithms,c,softwareengineering,softwareengineer,python,machinelearning 
+more info: https://www.timesjobs.com/job-detail/python-fullstack-zf-friedrichshafen-itc-hyderabad-secunderabad-4-to-5-yrs-jobid-QuWTzM4UvdhzpSvf__PLUS__uAgZw==&source=srp 
+--------------------------------------- 
