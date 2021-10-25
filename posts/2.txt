@@ -1,100 +1,125 @@
 company name: TEAMPLUS STAFFING SOLUTION PVT. LTD. 
-skills: Python2,knowledgeofJIRA,Terraform 
+skills: Python 2  ,   knowledge of JIRA  ,   Terraform 
 more info: https://www.timesjobs.com/job-detail/python-devops-teamplus-staffing-solution-pvt-ltd-pune-0-to-3-yrs-jobid-rCX83h0ULeBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 6 days ago 
 --------------------------------------- 
 company name: Talent Corner Hr Services Private Limited 
-skills: python,django,webtechnologies 
+skills: python  ,  django  ,  web technologies 
 more info: https://www.timesjobs.com/job-detail/python-engineer-talent-corner-hr-services-private-limited-udaipur-7-to-12-yrs-jobid-9zo5SnLa1ONzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: LAKSH HUMAN RESOURCE 
-skills: rest,python,django,git 
+skills: rest  ,  python  ,  django  ,  git 
 more info: https://www.timesjobs.com/job-detail/python-developer-laksh-human-resource-mumbai-1-to-3-yrs-jobid-Bo79FYBR7__SLASH__5zpSvf__PLUS__uAgZw==&source=srp 
---------------------------------------- 
-company name: TandA HR Solutions 
-skills: pythonprogramming,RobotFramework,DeviceAutomationAppium 
-more info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-4-to-5-yrs-jobid-hfo6__SLASH__sfO5lBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: APPLYCUP HIRING SOLUTIONS LLP 
-skills: python,security,webdeveloper,storage,mongodb 
+skills: python  ,  security  ,  web developer  ,  storage  ,  mongodb 
 more info: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-ahmedabad-1-to-4-yrs-jobid-Sq8U1RfiYD5zpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 1 day ago 
+--------------------------------------- 
+company name: TandA HR Solutions 
+skills: python programming  ,   Robot Framework  ,   Device Automation  Appium 
+more info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-4-to-5-yrs-jobid-hfo6__SLASH__sfO5lBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 1 day ago 
 --------------------------------------- 
 company name: TEAMPLUS STAFFING SOLUTION PVT. LTD. 
-skills: python,database,security,django,debugging 
+skills: python  ,  database  ,  security  ,  django  ,  debugging 
 more info: https://www.timesjobs.com/job-detail/python-developer-teamplus-staffing-solution-pvt-ltd-pune-5-to-8-yrs-jobid-LFOyEssJt0BzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: emis health india pvt ltd 
-skills: python,scala,sql,bigdata 
+skills: python  ,  scala  ,  sql  ,  big data 
 more info: https://www.timesjobs.com/job-detail/python-developer-emis-health-india-pvt-ltd-chennai-2-to-4-yrs-jobid-oQYL9dlJsYRzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: tataatsu idealabs pvt. ltd. 
-skills: oop,python,linux,teamplayer,mongodb,sql 
+skills: oop  ,  python  ,  linux  ,  team player  ,  mongodb  ,  sql 
 more info: https://www.timesjobs.com/job-detail/python-developer-tataatsu-idealabs-pvt-ltd-bengaluru-bangalore-1-to-3-yrs-jobid-8DvwCGHFKxhzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 2 days ago 
 --------------------------------------- 
 company name: zealitech solutions 
-skills: python,security,django,zope,bugfixing 
+skills: python  ,  security  ,  django  ,  zope  ,  bug fixing 
 more info: https://www.timesjobs.com/job-detail/python-developer-zealitech-solutions-rajkot-1-to-3-yrs-jobid-jc1CNlGZzcRzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 3 days ago 
 --------------------------------------- 
 company name: test and verification solutions 
-skills: rest,python,debugging,problemsolving,shellscripting,unix 
+skills: rest  ,  python  ,  debugging  ,  problem solving  ,  shell scripting  ,  unix 
 more info: https://www.timesjobs.com/job-detail/python-developer-test-and-verification-solutions-bengaluru-bangalore-2-to-4-yrs-jobid-zFR72okuyBFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 2 days ago 
 --------------------------------------- 
 company name: PRATHIGNA BUILDTECH PRIVATE LIMITED 
-skills: cli,python,django,iam,api,gateway 
-more info: https://www.timesjobs.com/job-detail/python-developer-prathigna-buildtech-private-limited-bengaluru-bangalore-5-to-8-yrs-jobid-97NuhwgyIRBzpSvf__PLUS__uAgZw==&source=srp 
---------------------------------------- 
-company name: PRATHIGNA BUILDTECH PRIVATE LIMITED 
-skills: fundamentals,python,css,django,oops,html 
+skills: fundamentals  ,  python  ,  css  ,  django  ,  oops  ,  html 
 more info: https://www.timesjobs.com/job-detail/python-developer-prathigna-buildtech-private-limited-bengaluru-bangalore-3-to-6-yrs-jobid-eRKG__PLUS__NvsH79zpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 4 days ago 
 --------------------------------------- 
 company name: DealsCorner 
-skills: python,css,oops,linux,debugging,html,javascript 
+skills: python  ,  css  ,  oops  ,  linux  ,  debugging  ,  html  ,  javascript 
 more info: https://www.timesjobs.com/job-detail/python-developer-dealscorner-ahmedabad-1-to-4-yrs-jobid-zwS7bOT__PLUS__nKxzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 4 days ago 
+--------------------------------------- 
+company name: PRATHIGNA BUILDTECH PRIVATE LIMITED 
+skills: cli  ,  python  ,  django  ,  iam  ,  api  ,  gateway 
+more info: https://www.timesjobs.com/job-detail/python-developer-prathigna-buildtech-private-limited-bengaluru-bangalore-5-to-8-yrs-jobid-97NuhwgyIRBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 4 days ago 
 --------------------------------------- 
 company name: SEVEN CONSULTANCY 
-skills: rest,python,oracle,sybase,bi,storage,javascript,nosql,sql,pythonscripting,java,xml,linux,mysql,unix 
+skills: rest  ,  python  ,  oracle  ,  sybase  ,  bi  ,  storage  ,  javascript  ,  nosql  ,  sql  ,  python scripting  ,  java  ,  xml  ,  linux  ,  mysql  ,  unix 
 more info: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-chennai-1-to-4-yrs-jobid-U23OAARJ16dzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 3 days ago 
 --------------------------------------- 
 company name: SEVEN CONSULTANCY 
-skills: python,mvc,sql 
+skills: python  ,  mvc  ,  sql 
 more info: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-4-to-7-yrs-jobid-PGeUDPey4RhzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: FresherMart 
-skills: python,django,DjangoFramework 
+skills: python  ,  django  ,   Django Framework 
 more info: https://www.timesjobs.com/job-detail/python-developer-freshermart-navi-mumbai-mumbai-0-to-1-yrs-jobid-PUYMPEa4NaFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: DREAMAJAX TECHNOLOGIES 
-skills: python,django,api,sql,nosql 
+skills: python  ,  django  ,  api  ,  sql  ,  nosql 
 more info: https://www.timesjobs.com/job-detail/python-developer-dreamajax-technologies-bengaluru-bangalore-4-to-7-yrs-jobid-EWIVCDzRLKBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: quality thought 
-skills: rest,python,django,informationtechnology 
+skills: rest  ,  python  ,  django  ,  information technology 
 more info: https://www.timesjobs.com/job-detail/python-django-quality-thought-hyderabad-secunderabad-2-to-5-yrs-jobid-A0WJWgCiZSRzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: ari global solutions 
-skills: python,writtencommunication,Goodpeopleinteraction 
+skills: python  ,  written communication  ,   Good people interaction 
 more info: https://www.timesjobs.com/job-detail/python-developer-ari-global-solutions-chennai-3-to-5-yrs-jobid-vSSKqKAWfdBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 6 days ago 
 --------------------------------------- 
 company name: Ivan Infotech Pvt. Ltd. 
-skills: rest,python,security,debugging 
+skills: rest  ,  python  ,  security  ,  debugging 
 more info: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: SEVEN CONSULTANCY 
-skills: rest,python,storage 
+skills: rest  ,  python  ,  storage 
 more info: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-thane-1-to-3-yrs-jobid-WwgCPmR5DrFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: QuEST Global Engineering Pvt Ltd 
-skills: rest,python,embeddedsoftware,git 
+skills: rest  ,  python  ,  embedded software  ,  git 
 more info: https://www.timesjobs.com/job-detail/python-engineer-quest-global-engineering-pvt-ltd-thiruvananthapuram-3-to-6-yrs-jobid-i7elssqOA2hzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: Anantha Cyber Tech Pvt Limited 
-skills: python,c,c,informationtechnology 
+skills: python  ,  c    ,  c  ,  information technology 
 more info: https://www.timesjobs.com/job-detail/python-developer-anantha-cyber-tech-pvt-limited-hyderabad-secunderabad-3-to-6-yrs-jobid-QF9wZ4AGuzlzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: Gibots 
-skills: python,elementsdeveloped,performanceapplications 
+skills: python  ,   elements developed  ,   performance applications 
 more info: https://www.timesjobs.com/job-detail/python-developer-gibots-pune-1-to-2-yrs-jobid-3x1kaokioYFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
 --------------------------------------- 
 company name: Fine Jobs Consultant Pvt. Ltd. 
-skills: python,css,ajax,javascript,html,asp 
+skills: python  ,  css  ,  ajax  ,  javascript  ,  html  ,  asp 
 more info: https://www.timesjobs.com/job-detail/python-developer-fine-jobs-consultant-pvt-ltd-gurgaon-5-to-8-yrs-jobid-b0yA6dHZvxFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 6 days ago 
 --------------------------------------- 
