@@ -1,0 +1,201 @@
+company name: TEAMPLUS STAFFING SOLUTION PVT. LTD. 
+skills: python  ,  database  ,  security  ,  django  ,  debugging 
+more info: https://www.timesjobs.com/job-detail/python-developer-teamplus-staffing-solution-pvt-ltd-pune-5-to-8-yrs-jobid-LFOyEssJt0BzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 6 days ago 
+location: Pune 
+min_yoe: 5 
+max_yoe: 8 
+--------------------------------------- 
+company name: Talent Corner Hr Services Private Limited 
+skills: python  ,  django  ,  web technologies 
+more info: https://www.timesjobs.com/job-detail/python-engineer-talent-corner-hr-services-private-limited-udaipur-7-to-12-yrs-jobid-9zo5SnLa1ONzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Udaipur 
+min_yoe: 7 
+max_yoe: 1 
+--------------------------------------- 
+company name: LAKSH HUMAN RESOURCE 
+skills: rest  ,  python  ,  django  ,  git 
+more info: https://www.timesjobs.com/job-detail/python-developer-laksh-human-resource-mumbai-1-to-3-yrs-jobid-Bo79FYBR7__SLASH__5zpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Mumbai 
+min_yoe: 1 
+max_yoe: 3 
+--------------------------------------- 
+company name: TEAMPLUS STAFFING SOLUTION PVT. LTD. 
+skills: Python 2  ,   knowledge of JIRA  ,   Terraform 
+more info: https://www.timesjobs.com/job-detail/python-devops-teamplus-staffing-solution-pvt-ltd-pune-0-to-3-yrs-jobid-rCX83h0ULeBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Pune 
+min_yoe: 0 
+max_yoe: 3 
+--------------------------------------- 
+company name: TandA HR Solutions 
+skills: python programming  ,   Robot Framework  ,   Device Automation  Appium 
+more info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-4-to-5-yrs-jobid-hfo6__SLASH__sfO5lBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 2 days ago 
+location: Gurgaon 
+min_yoe: 4 
+max_yoe: 5 
+--------------------------------------- 
+company name: APPLYCUP HIRING SOLUTIONS LLP 
+skills: python  ,  security  ,  web developer  ,  storage  ,  mongodb 
+more info: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-ahmedabad-1-to-4-yrs-jobid-Sq8U1RfiYD5zpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 2 days ago 
+location: Ahmedabad 
+min_yoe: 1 
+max_yoe: 4 
+--------------------------------------- 
+company name: emis health india pvt ltd 
+skills: python  ,  scala  ,  sql  ,  big data 
+more info: https://www.timesjobs.com/job-detail/python-developer-emis-health-india-pvt-ltd-chennai-2-to-4-yrs-jobid-oQYL9dlJsYRzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Chennai 
+min_yoe: 2 
+max_yoe: 4 
+--------------------------------------- 
+company name: tataatsu idealabs pvt. ltd. 
+skills: oop  ,  python  ,  linux  ,  team player  ,  mongodb  ,  sql 
+more info: https://www.timesjobs.com/job-detail/python-developer-tataatsu-idealabs-pvt-ltd-bengaluru-bangalore-1-to-3-yrs-jobid-8DvwCGHFKxhzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 3 days ago 
+location: Bengaluru / Bangalore 
+min_yoe: 1 
+max_yoe: 3 
+--------------------------------------- 
+company name: zealitech solutions 
+skills: python  ,  security  ,  django  ,  zope  ,  bug fixing 
+more info: https://www.timesjobs.com/job-detail/python-developer-zealitech-solutions-rajkot-1-to-3-yrs-jobid-jc1CNlGZzcRzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 4 days ago 
+location: Rajkot 
+min_yoe: 1 
+max_yoe: 3 
+--------------------------------------- 
+company name: test and verification solutions 
+skills: rest  ,  python  ,  debugging  ,  problem solving  ,  shell scripting  ,  unix 
+more info: https://www.timesjobs.com/job-detail/python-developer-test-and-verification-solutions-bengaluru-bangalore-2-to-4-yrs-jobid-zFR72okuyBFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 3 days ago 
+location: Bengaluru / Bangalore 
+min_yoe: 2 
+max_yoe: 4 
+--------------------------------------- 
+company name: DealsCorner 
+skills: python  ,  css  ,  oops  ,  linux  ,  debugging  ,  html  ,  javascript 
+more info: https://www.timesjobs.com/job-detail/python-developer-dealscorner-ahmedabad-1-to-4-yrs-jobid-zwS7bOT__PLUS__nKxzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 5 days ago 
+location: Ahmedabad 
+min_yoe: 1 
+max_yoe: 4 
+--------------------------------------- 
+company name: Interactive Brokers 
+skills: c    ,  oracle pl  /  sql  ,  sql  ,  git  ,  java  ,  linux  ,  python  ,  php 
+more info: https://www.timesjobs.com/job-detail/python-developer-interactive-brokers-mumbai-3-to-5-yrs-jobid-1ddR1LwDakpzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted today 
+location: Mumbai 
+min_yoe: 3 
+max_yoe: 5 
+--------------------------------------- 
+company name: PRATHIGNA BUILDTECH PRIVATE LIMITED 
+skills: cli  ,  python  ,  django  ,  iam  ,  api  ,  gateway 
+more info: https://www.timesjobs.com/job-detail/python-developer-prathigna-buildtech-private-limited-bengaluru-bangalore-5-to-8-yrs-jobid-97NuhwgyIRBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 5 days ago 
+location: Bengaluru / Bangalore 
+min_yoe: 5 
+max_yoe: 8 
+--------------------------------------- 
+company name: Electrobrain modern technologies pvt ltd
+     (More Jobs) 
+skills: Data Science  ,  Matplotlib  ,  GIT  ,  Pandas  ,  AWS  ,  Numpy  ,  Python 
+more info: https://www.timesjobs.com/job-detail/python-developer-electrobrain-modern-technologies-pvt-ltd-bengaluru-bangalore-chennai-gurgaon-hyderabad-secunderabad-noida-greater-noida-0-to-3-yrs-jobid-__PLUS__QBUMRst1atzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted today 
+location: None 
+min_yoe: 0 
+max_yoe: 3 
+--------------------------------------- 
+company name: TECHNOPARK TRIVANDRUM 
+skills: algorithms  ,  python  ,  git  ,  rest api  ,  data structures  ,  mongodb  ,  forms 
+more info: https://www.timesjobs.com/job-detail/python-developer-technopark-trivandrum-thiruvananthapuram-0-to-3-yrs-jobid-TOV29FSgsVlzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted today 
+location: Thiruvananthapuram 
+min_yoe: 0 
+max_yoe: 3 
+--------------------------------------- 
+company name: SEVEN CONSULTANCY 
+skills: rest  ,  python  ,  oracle  ,  sybase  ,  bi  ,  storage  ,  javascript  ,  nosql  ,  sql  ,  python scripting  ,  java  ,  xml  ,  linux  ,  mysql  ,  unix 
+more info: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-chennai-1-to-4-yrs-jobid-U23OAARJ16dzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted 4 days ago 
+location: Chennai 
+min_yoe: 1 
+max_yoe: 4 
+--------------------------------------- 
+company name: FresherMart 
+skills: python  ,  django  ,   Django Framework 
+more info: https://www.timesjobs.com/job-detail/python-developer-freshermart-navi-mumbai-mumbai-0-to-1-yrs-jobid-PUYMPEa4NaFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Navi Mumbai,  Mumbai 
+min_yoe: 0 
+max_yoe: 1 
+--------------------------------------- 
+company name: SEVEN CONSULTANCY 
+skills: python  ,  mvc  ,  sql 
+more info: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-4-to-7-yrs-jobid-PGeUDPey4RhzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Navi Mumbai,  Mumbai 
+min_yoe: 4 
+max_yoe: 7 
+--------------------------------------- 
+company name: Infosys Technologies Ltd 
+skills: python  ,  technology analyst  ,  big data 
+more info: https://www.timesjobs.com/job-detail/python-developer-infosys-technologies-ltd-australia-0-to-3-yrs-jobid-YpHKVCDf5bFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Australia 
+min_yoe: 0 
+max_yoe: 3 
+--------------------------------------- 
+company name: DREAMAJAX TECHNOLOGIES 
+skills: python  ,  django  ,  api  ,  sql  ,  nosql 
+more info: https://www.timesjobs.com/job-detail/python-developer-dreamajax-technologies-bengaluru-bangalore-4-to-7-yrs-jobid-EWIVCDzRLKBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Bengaluru / Bangalore 
+min_yoe: 4 
+max_yoe: 7 
+--------------------------------------- 
+company name: Datagrid Solutions 
+skills: python  ,  database  ,  django  ,  mysql  ,  api 
+more info: https://www.timesjobs.com/job-detail/python-developer-datagrid-solutions-mumbai-2-to-3-yrs-jobid-yAspoeIZIo5zpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Mumbai 
+min_yoe: 2 
+max_yoe: 3 
+--------------------------------------- 
+company name: quality thought 
+skills: rest  ,  python  ,  django  ,  information technology 
+more info: https://www.timesjobs.com/job-detail/python-django-quality-thought-hyderabad-secunderabad-2-to-5-yrs-jobid-A0WJWgCiZSRzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Hyderabad/Secunderabad 
+min_yoe: 2 
+max_yoe: 5 
+--------------------------------------- 
+company name: ari global solutions 
+skills: python  ,  written communication  ,   Good people interaction 
+more info: https://www.timesjobs.com/job-detail/python-developer-ari-global-solutions-chennai-3-to-5-yrs-jobid-vSSKqKAWfdBzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Chennai 
+min_yoe: 3 
+max_yoe: 5 
+--------------------------------------- 
+company name: Ivan Infotech Pvt. Ltd. 
+skills: rest  ,  python  ,  security  ,  debugging 
+more info: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Kolkata 
+min_yoe: 2 
+max_yoe: 5 
+--------------------------------------- 
+company name: SEVEN CONSULTANCY 
+skills: rest  ,  python  ,  storage 
+more info: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-thane-1-to-3-yrs-jobid-WwgCPmR5DrFzpSvf__PLUS__uAgZw==&source=srp 
+publish date: Posted few days ago 
+location: Navi Mumbai,  Mumbai,  Thane 
+min_yoe: 1 
+max_yoe: 3 
+--------------------------------------- 
